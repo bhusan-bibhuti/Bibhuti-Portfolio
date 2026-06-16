@@ -1,0 +1,65 @@
+3.
+bhusanbibhuti2005@gmail.com
+https://github.com/bhusan-bibhuti
+https://www.instagram.com/bibhuti_._op/
+Raj Khariar, Nuapada, Odisha
+
+4.
+Graduation (Computer Science) from Model Degree College Nuapada, Khariar
+2023-26
+Overall: 8.2 SGPA
+
+Projects:
+
+A.College Website
+https://mdc-nuapada.web.app/index.html
+"C:\Users\bhusa\Desktop\Portfolio\assets\Photos\College Website.png"
+https://github.com/bhusan-bibhuti/graduation-final-year-project
+Tech Stack
+Frontend: HTML5, CSS3, Vanilla JavaScript (ES5)
+Hosting: Firebase Hosting
+Styling: Custom CSS with responsive grid layouts
+Version Control: Git
+Model Degree College Nuapada is a responsive, feature-rich static website built for an educational institution. The website serves as a comprehensive digital platform providing information about the college, its academics, admission procedures, facilities, and campus life. It features an administrative dashboard for managing notifications, announcements, and gallery content. The website is deployed using Firebase Hosting for scalability and reliability.
+Completed
+Developed by group(i am the group Leader)
+
+B.Student Management System
+https://mdcn-student-management.web.app/
+"C:\Users\bhusa\Desktop\Portfolio\assets\Photos\Student Management.png"
+Tech Stack
+Frontend: HTML5, CSS3, Vanilla JavaScript (ES5)
+Hosting: Firebase Hosting
+Styling: Custom CSS with responsive grid layouts
+Version Control: Git
+
+C.AroundU
+https://around-youu.web.app/#/
+"C:\Users\bhusa\Desktop\Portfolio\assets\Photos\AroundU.png"
+AroundU is a Firebase-powered web application for discovering nearby events, registering attendees, generating digital QR passes, and validating entry through a browser-based scanner.
+Tech Stack
+Frontend: HTML5, CSS3, Vanilla JavaScript (ES5)
+Hosting: Firebase Hosting
+Styling: Custom CSS with responsive grid layouts
+Version Control: Git
+Completed
+fully developed by Me 
+
+D.Wardroble
+Wardrobe A Personal Smart Clothing Manager. Wardrobe is a personal wardrobe management application built using Flutter. It helps track clothes, manage their condition (clean / dirty), organize storage, and suggest outfits intelligently — especially useful for people who struggle with dressing sense.
+https://github.com/bhusan-bibhuti/wardroble
+Flutter with local database Hive
+Fully Developed by me.
+
+Full name: Bibhuti Bhusan Barik
+“Computer Science Graduate”
+“Aspiring Software Developer”
+8.2 SGPA
+6+ projects
+4 certifications
+React currently being learned
+Skill percentages currently shown:
+HTML 90, CSS 85, JavaScript 78, Python 75, C++ 70, SQL 65, Git 72
+Interests: cricket, UI/UX, Python, problem-solving
+Career goals and preferred job roles
+Software Developer 
