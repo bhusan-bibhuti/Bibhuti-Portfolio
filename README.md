@@ -37,10 +37,17 @@
 
 ## 📸 Portfolio Preview
 
-> [!TIP]
-> You can replace this placeholder with a screenshot of your live website once deployed. Save your screenshot as `screenshot.png` in the root folder.
+🏠 Home Page
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 165927" src="https://github.com/user-attachments/assets/bef444e5-4bad-4381-b368-aa72fdd4934e" />
+👨‍💻 About Me & What I Do
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 165941" src="https://github.com/user-attachments/assets/f7467cce-c309-48f5-b766-c19d36957d78" />
+🚀 Featured Projects
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 170003" src="https://github.com/user-attachments/assets/5bbb9690-4009-4bc2-bc8f-ab45d7e0de42" />
+🏆 Milestones & Achievements
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 170034" src="https://github.com/user-attachments/assets/cf08b264-be1b-4e06-80a7-9920a5b1701c" />
+🤝 Let's Connect
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 170047" src="https://github.com/user-attachments/assets/5944dc2f-f072-47a4-a756-2648b1a4fd8c" />
 
-![Portfolio Preview Screenshot](https://raw.githubusercontent.com/bhusanbibhuti2005/Bibhuti-Portfolio/main/assets/Photos/AroundU.png)
 
 ---
 
